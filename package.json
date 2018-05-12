@@ -1,0 +1,22 @@
+{
+  "name": "jerm-va",
+  "version": "1.0.0",
+  "description": "",
+  "main": "records.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "csv-parse": "^2.4.0",
+    "csv-stringify": "^3.0.0",
+    "event-stream": "^3.3.4",
+    "iconv-lite": "^0.4.23",
+    "lodash": "^4.17.5",
+    "moxios": "^0.4.0",
+    "util": "^0.10.3"
+  }
+}
